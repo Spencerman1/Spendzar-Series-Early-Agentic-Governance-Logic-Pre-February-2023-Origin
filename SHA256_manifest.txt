@@ -1,0 +1,8 @@
+﻿SHA256 Manifest generated on 2025-10-14 06:48:45
+A9B9F0D25F50BBE81449478060B8FD510D86DCD20768AFD9AD4764EADE6EC75B *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\Comparison Matrix_ “Mixing Over Generating” vs. Agentic AI Systems.docx
+2BC47775419AA8A7DD8EE91AD1CD898F3080AB799B6E2230413EE1A5FE2B2D19 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\Screenshot_14-10-2025_64512_scet.berkeley.edu.jpeg
+957002DDA50D4CD321A8503F6419311A0793AB886980918424CACFB69BD6F787 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\Screenshot_14-10-2025_64540_cmr.berkeley.edu.jpeg
+70FD8B75227B4F89A7991637BE16455BAF444A12524F72E66863EE63AC1106F5 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\Screenshot_14-10-2025_64629_medium.com.jpeg
+ACE7480EB412306497C50804622CA52195323DFC19E818C4ED98BC7FDAAC2260 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\Screenshot_14-10-2025_6466_www.llmwatch.com.jpeg
+D9202A3F72CC3D1FAF209B422F4D988FE6B6F43D1D989FA34C24DA79C029A831 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\SHA256_manifest.txt
+B16B8CE20EB21E739EEC5B710219D99B143A3429971E1B03C4767E5DEBADED44 *C:\Users\Spenc\Desktop_Local\Workflow-Shepherds\_agents mix or gather rather than the old way of generating (1).docx
